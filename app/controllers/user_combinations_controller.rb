@@ -1,0 +1,2 @@
+class UserCombinationsController < ApplicationController
+end

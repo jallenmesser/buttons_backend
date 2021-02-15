@@ -1,0 +1,2 @@
+class DifficultyButtonsController < ApplicationController
+end
